@@ -2,7 +2,7 @@
 Second Year Computer Science: Data Structures Project
 
 CITY MAP PROJECT:
--Reading the information from a text file
+-The program read information from "text.txt" file
 
 OBLIGATORY TASKS:
 
