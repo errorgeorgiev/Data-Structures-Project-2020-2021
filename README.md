@@ -1,10 +1,10 @@
 # Data-Structures-Project-2020-2021
 Second Year Computer Science: Data Structures Project
 
-City Map Project:
+CITY MAP PROJECT:
 -Reading the information from a text file
 
-Obligatory Tasks:
+OBLIGATORY TASKS:
 
 1.Check if path exists between two junctions
 
@@ -21,7 +21,7 @@ Obligatory Tasks:
 7.Find all dead end streets
 
 
-Bonus Interface Commands:
+BONUS INTERFACE COMMANDS:
 
 location — returns the name of the junction where we are at the moment
 
